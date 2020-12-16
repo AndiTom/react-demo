@@ -41,7 +41,7 @@ git clone git@github.com:AndiTom/react-demo.git
 ```
 2. Get in the project folder
 ```shell
-cd one-react-template
+cd react-demo
 ```
 3. Install dependencies via npm or yarn
 ```shell
@@ -53,6 +53,10 @@ yarn
 
 ## Quick start
 Run development server
+
+yarn start
+or 
+npm start
 ```shell
 yarn run serve
 ```
